@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gradient-string": "^3.0.0",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.6",
+    "socks-proxy-agent": "^8.0.5"
+  }
+}
